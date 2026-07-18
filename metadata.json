@@ -1,0 +1,6 @@
+{
+  "name": "Smart Refrigerator Tracker",
+  "description": "An AI-powered refrigerator companion to track ingredients, monitor expiration dates, and generate recipes using Gemini.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
